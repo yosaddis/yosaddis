@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosaddis" alt="yosaddis" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script, Ruby and Rails.**
+- 🌱 I’m currently learning **JavaScript, Ruby and Rails.**
 
 - 📫 How to reach me **email.to.yoseph@gmail.com**
 
