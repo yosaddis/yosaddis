@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yoseph Addisu</h1>
-<h3 align="center">A passionate software developer from Ethiopia.</h3>
+<h3 align="center">A passionate software developer. Looking for exciting job opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yosaddis&label=Profile%20views&color=0e75b6&style=flat" alt="yosaddis" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosaddis" alt="yosaddis" /></a> </p>
 
-- 🌱 I’m currently learning **Python, AWS and Flutter.**
+- 🌱 I’m currently learning **Java Script, Ruby and Rails.**
 
 - 📫 How to reach me **email.to.yoseph@gmail.com**
 
